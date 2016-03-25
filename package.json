@@ -1,0 +1,28 @@
+{
+  "name": "tsop",
+  "version": "1.0.0",
+  "description": "You can determine the strength of your password through this",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eidonjoe/tsop.git"
+  },
+  "keywords": [
+    "strength",
+    "password",
+    "crypto"
+  ],
+  "author": "eidonjoe",
+  "email": "806488716@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eidonjoe/tsop/issues"
+  },
+  "homepage": "https://github.com/eidonjoe/tsop",
+  "devDependencies": {
+    "should": "^8.3.0"
+  }
+}
